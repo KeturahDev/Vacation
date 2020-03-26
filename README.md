@@ -1,4 +1,4 @@
-# Band
+# Vacation Planning
 By Keturah Howard
 
 ## Description
@@ -11,6 +11,7 @@ An vacation planning website, made with the purpose of practicing css styling.
   2. Navigate to your terminal, where you have previously installed git (if you have not done this yet, go ahead and do so now).
   3. In terminal, change your directory to desktop, and then type **"git clone "** and then paste the link you copied from the repository page.
   4. when you've pressed enter, my project will be cloned onto your desktop, and now you can change directory into it and type **"code ."** to open the projects files in Visual Studio Code!
+  5. in the terminal in the root of the project, type "open index.html" to view the project in your browser.
 ## Technologies Used
 * Visual Studio Code
 * HTML
